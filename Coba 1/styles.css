@@ -1,0 +1,118 @@
+
+
+.left-align {
+    position: fixed;
+    left: 82%;
+}
+
+.navbar {
+    box-sizing: border-box;
+    position: fixed;
+    z-index: 99;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.vertical-align {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+}
+
+.nav-position {
+    position: fixed;
+    z-index: 99;
+}
+
+.nav-color-top {
+    color: goldenrod;
+    background-color: goldenrod;
+    box-sizing: border-box;
+}
+
+.nav-color {
+    background-color: goldenrod;
+}
+
+#profile-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    margin-top: 25px;
+}
+
+.about {
+    margin-top: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+.short-bio {
+    margin-top: 30px;
+}
+
+.card-align {
+    margin: auto;
+    margin-top: 30px;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(252, 251, 121) 90%);
+}
+
+.btn-color-card {
+    background-color: #d62976;
+    border: none;
+}
+
+#me {
+    height: 100vh;
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(252, 251, 121) 90%);
+}
+
+#pend {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);;
+}
+
+#proy {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle at 12.8% 28%, rgb(206, 155, 243) 0%, rgb(142, 229, 247) 90%);
+}
+
+#kon {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90.5deg, rgb(247, 204, 0) 0.2%, rgb(247, 0, 0) 27.3%, rgb(161, 0, 156) 85.5%);
+}
+
+.center-align {
+    position: relative;
+    right: 23%;
+
+}
+
+.font-label {
+    color: white;
+}
+
+.button-align {
+    background-color: darkorange;
+    color: white;
+    border: none;
+}
+
+.modal-pos {
+    background-color: darkorange;
+    color: white;
+    border: none;
+    margin-top: 10%;
+}
+
